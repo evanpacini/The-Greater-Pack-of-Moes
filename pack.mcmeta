@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "The Greater Pack of Moes"
+  },
+  "language": {
+    "LANG_COUNTRY": {
+      "name": "Kanurs",
+      "region": "The Greater Isle of Moes",
+      "bidirectional": false
+    }
+  }
+}
