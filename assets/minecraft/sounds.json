@@ -1,0 +1,10 @@
+{
+  "music_disc.13": {
+    "sounds": [
+      {
+        "name": "records/moes_anthem_vocal",
+        "stream": true
+      }
+    ]
+  }
+}
