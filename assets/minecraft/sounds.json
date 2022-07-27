@@ -1,0 +1,14 @@
+{
+  "music_disc.13": {
+    "sounds": [
+      {
+        "name": "records/moes_anthem_instrumental",
+        "stream": true
+      },
+      {
+        "name": "records/moes_anthem_orchestral",
+        "stream": true
+      }
+    ]
+  }
+}
