@@ -5,11 +5,21 @@
       {
         "name": "records/moes_anthem_vocal",
         "stream": true
-      },
+      }
+    ]
+  },
+  "music_disc.cat": {
+    "replace": true,
+    "sounds": [
       {
         "name": "records/moes_anthem_instrumental",
         "stream": true
-      },
+      }
+    ]
+  },
+  "music_disc.11": {
+    "replace": true,
+    "sounds": [
       {
         "name": "records/moes_anthem_orchestral",
         "stream": true
