@@ -1,6 +1,11 @@
 {
   "music_disc.13": {
+    "replace": true,
     "sounds": [
+      {
+        "name": "records/moes_anthem_vocal",
+        "stream": true
+      },
       {
         "name": "records/moes_anthem_instrumental",
         "stream": true
