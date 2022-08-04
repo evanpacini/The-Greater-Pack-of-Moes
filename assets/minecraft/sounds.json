@@ -1,4 +1,50 @@
 {
+  "entity.enderman.ambient": {
+    "replace": true,
+    "sounds": [
+      "mob/endermen/idle1",
+      "mob/endermen/idle2",
+      "mob/endermen/idle3",
+      "mob/endermen/idle4",
+      "mob/endermen/idle5"
+    ],
+    "subtitle": "subtitles.entity.enderman.ambient"
+  },
+  "entity.enderman.death": {
+    "replace": true,
+    "sounds": ["mob/endermen/death"],
+    "subtitle": "subtitles.entity.enderman.death"
+  },
+  "entity.enderman.hurt": {
+    "replace": true,
+    "sounds": [
+      "mob/endermen/hit1",
+      "mob/endermen/hit2",
+      "mob/endermen/hit3",
+      "mob/endermen/hit4"
+    ],
+    "subtitle": "subtitles.entity.enderman.hurt"
+  },
+  "entity.enderman.scream": {
+    "replace": true,
+    "sounds": [
+      "mob/endermen/scream1",
+      "mob/endermen/scream2",
+      "mob/endermen/scream3",
+      "mob/endermen/scream4"
+    ],
+    "subtitle": "subtitles.entity.enderman.ambient"
+  },
+  "entity.enderman.stare": {
+    "replace": true,
+    "sounds": ["mob/endermen/stare"],
+    "subtitle": "subtitles.entity.enderman.stare"
+  },
+  "entity.enderman.teleport": {
+    "replace": true,
+    "sounds": ["mob/endermen/portal", "mob/endermen/portal2"],
+    "subtitle": "subtitles.entity.enderman.teleport"
+  },
   "music_disc.13": {
     "replace": true,
     "sounds": [
