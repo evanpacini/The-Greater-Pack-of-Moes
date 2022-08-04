@@ -45,6 +45,15 @@
     "sounds": ["mob/endermen/portal", "mob/endermen/portal2"],
     "subtitle": "subtitles.entity.enderman.teleport"
   },
+  "music_disc.11": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "records/moes_anthem_orchestral",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.13": {
     "replace": true,
     "sounds": [
@@ -54,20 +63,20 @@
       }
     ]
   },
+  "music_disc.blocks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "records/moes_anthem_orchestral_vocal",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.cat": {
     "replace": true,
     "sounds": [
       {
         "name": "records/moes_anthem_instrumental",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.11": {
-    "replace": true,
-    "sounds": [
-      {
-        "name": "records/moes_anthem_orchestral",
         "stream": true
       }
     ]
