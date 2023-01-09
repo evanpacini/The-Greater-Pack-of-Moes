@@ -2799,7 +2799,7 @@
   "stat_type.minecraft.killed": "di mèrtios %s %s",
   "stat_type.minecraft.killed.none": "di mèrtios nièn êi %s",
   "stat_type.minecraft.killed_by": "%s mèrtios %sal di",
-  "stat_type.minecraft.killed_by.none": "You have never been killed by %s",
+  "stat_type.minecraft.killed_by.none": "%s mèrtius nièn di",
   "stat.minecraft.animals_bred": "Animals Bred",
   "stat.minecraft.aviate_one_cm": "Distance by Elytra",
   "stat.minecraft.clean_armor": "Armor Pieces Cleaned",
